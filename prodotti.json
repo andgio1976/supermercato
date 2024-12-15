@@ -6,45 +6,39 @@
     "Peso":"1 kg"
   },
   {
-    "nome":"Pasta",
-    "quantita":10,
-    "prezzo":1.23,
+    "nome":"Latte",
+    "quantita":9,
+    "prezzo":1.49
+    "Peso":"1 Litro"
+  },
+  {
+    "nome":"Miele",
+    "quantita":33,
+    "prezzo":11.99,
+    "Peso":"500 gr."
+  },
+  {
+    "nome":"Riso",
+    "quantita":3,
+    "prezzo":4.25,
     "Peso":"1 kg"
   },
   {
-    "nome":"Pasta",
-    "quantita":10,
-    "prezzo":1.23,
+    "nome":"Cioccolato",
+    "quantita":17,
+    "prezzo":6.44,
+    "Peso":"250 gr."
+  },
+  {
+    "nome":"Pane",
+    "quantita":45,
+    "prezzo":2.59,
     "Peso":"1 kg"
   },
   {
-    "nome":"Pasta",
-    "quantita":10,
-    "prezzo":1.23,
-    "Peso":"1 kg"
-  },
-  {
-    "nome":"Pasta",
-    "quantita":10,
-    "prezzo":1.23,
-    "Peso":"1 kg"
-  },
-  {
-    "nome":"Pasta",
-    "quantita":10,
-    "prezzo":1.23,
-    "Peso":"1 kg"
-  },
-  {
-    "nome":"Pasta",
-    "quantita":10,
-    "prezzo":1.23,
-    "Peso":"1 kg"
-  },
-  {
-    "nome":"Pasta",
-    "quantita":10,
-    "prezzo":1.23,
-    "Peso":"1 kg"
-  },
+    "nome":"Yogurt greco",
+    "quantita":55,
+    "prezzo":3.99,
+    "Peso":"250 gr."
+  }
 ]
