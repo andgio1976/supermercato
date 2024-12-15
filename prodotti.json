@@ -1,41 +1,48 @@
 [
   {
+    "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1426933.jpg",
     "nome":"Pasta",
     "quantita":10,
     "prezzo":1.23,
     "Peso":"1 kg"
   },
   {
+    "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1426933.jpg",
     "nome":"Latte",
     "quantita":9,
     "prezzo":1.49
     "Peso":"1 Litro"
   },
   {
+    "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1471876.jpg",
     "nome":"Miele",
     "quantita":33,
     "prezzo":11.99,
     "Peso":"500 gr."
   },
   {
+    "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1151093.jpg",
     "nome":"Riso",
     "quantita":3,
     "prezzo":4.25,
     "Peso":"1 kg"
   },
   {
+    "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1483102.jpg",
     "nome":"Cioccolato",
     "quantita":17,
     "prezzo":6.44,
     "Peso":"250 gr."
   },
   {
+    "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1054862.jpg",
     "nome":"Pane",
     "quantita":45,
     "prezzo":2.59,
     "Peso":"1 kg"
   },
   {
+    "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1225852.jpg",
     "nome":"Yogurt greco",
     "quantita":55,
     "prezzo":3.99,
