@@ -1,5 +1,6 @@
 [
   {
+    "id":1,
     "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1426933.jpg",
     "nome":"Pasta",
     "quantita":10,
@@ -7,6 +8,7 @@
     "Peso":"1 kg"
   },
   {
+    "id":2,
     "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1426933.jpg",
     "nome":"Latte",
     "quantita":9,
@@ -14,6 +16,7 @@
     "Peso":"1 Litro"
   },
   {
+    "id":3,
     "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1471876.jpg",
     "nome":"Miele",
     "quantita":33,
@@ -21,6 +24,7 @@
     "Peso":"500 gr."
   },
   {
+    "id":4,
     "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1151093.jpg",
     "nome":"Riso",
     "quantita":3,
@@ -28,6 +32,7 @@
     "Peso":"1 kg"
   },
   {
+    "id":5,
     "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1483102.jpg",
     "nome":"Cioccolato",
     "quantita":17,
@@ -35,6 +40,7 @@
     "Peso":"250 gr."
   },
   {
+    "id":6,
     "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1054862.jpg",
     "nome":"Pane",
     "quantita":45,
@@ -42,6 +48,7 @@
     "Peso":"1 kg"
   },
   {
+    "id":7,
     "url":"https://images.services.esselunga.it/html/img_prodotti/esselunga/image/1225852.jpg",
     "nome":"Yogurt greco",
     "quantita":55,
